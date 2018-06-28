@@ -3,8 +3,8 @@
 This repository contains a sample app that implements MVVM architecture using Dagger2, Architecture Components, Retrofit, Recyclerview, Butterknife
 
 The app has following packages:
-di: Dependency providing classes using Dagger2.
-network: Retrofit REST service
-ui: View classes along with their corresponding ViewModel.
-viewmodel: Viewmodel factory classes for VIewModel
-vo: Value object
+1. di: Dependency providing classes using Dagger2.
+2. network: Retrofit REST service
+3. ui: View classes along with their corresponding ViewModel.
+4. viewmodel: Viewmodel factory classes for VIewModel
+5. vo: Value object
